@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction. Particular applications of AI include expert systems, speech recognition, and machine vision.
+
+AI can be categorized in several ways. One common classification is into "narrow AI" (or "weak AI") and "general AI" (or "strong AI"). Narrow AI is designed to perform a narrow task (e.g. only facial recognition or only internet searches or only driving a car). General AI, which is the long-term goal of many researchers, would have the ability to perform any intellectual task that a human being can.
+
+Machine learning (ML) is a subset of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Deep learning is a subset of machine learning where artificial neural networks, algorithms inspired by the human brain, learn from large amounts of data.
+
+Natural Language Processing (NLP) is another branch of AI that deals with the interaction between computers and humans using the natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
