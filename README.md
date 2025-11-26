@@ -5,9 +5,8 @@ This repo stores all the AI tasks I learn and complete — mainly AWS Bedrock, P
 ##  How to Run
 
 ### 1 Create Virtual Environment
-python -m venv venv
-source venv/bin/activate        # Mac/Linux
-venv\Scripts\activate           # Windows
+python -m venv venv        
+venv\Scripts\activate          
 
 ### 2️ Install Dependencies
 pip install -r requirements.txt
