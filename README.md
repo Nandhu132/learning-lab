@@ -1,7 +1,6 @@
 # learning-lab
 ##  Aim
-This repo is for learning and practicing GenAI, AWS Bedrock, Pinecone, and LangGraph.  
-Whatever tasks I complete, I store and organize them here in a simple folder structure.
+This repo stores all the AI tasks I learn and complete — mainly AWS Bedrock, Pinecone, and LangGraph.
 
 ##  How to Run
 
