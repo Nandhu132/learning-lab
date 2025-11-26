@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain_groq
+faiss-cpu
+sentence-transformers
+huggingface-hub
+python-dotenv
+typing-extensions
