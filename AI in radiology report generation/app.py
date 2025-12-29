@@ -9,7 +9,7 @@ import os
 from dotenv import load_dotenv
 
 st.set_page_config(
-    page_title="AI-Assisted Radiology Analysis",
+    page_title="AI-Assisted Radiology Report Generation",
     page_icon="🩻",
     layout="wide"
 )
@@ -90,7 +90,7 @@ bedrock = boto3.client(
 )
 
 
-st.markdown("##  AI-Assisted Radiology Analysis & Report Generation")
+st.markdown("##  AI-Assisted Radiology Report Generation")
 st.caption("Upload chest X-ray → AI detects imaging findings → Generates draft radiology report")
 st.divider()
 
